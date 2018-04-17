@@ -1,0 +1,32 @@
+notite
+
+
+
+ auto-detect email address (got 'User@DESKTOP-VH23G1D.(none)')
+
+User@DESKTOP-VH23G1D MINGW64 /c/Projects/tekwill (master)
+$ git config --global user.email "arina.lachi@srco.utm.md"
+
+User@DESKTOP-VH23G1D MINGW64 /c/Projects/tekwill (master)
+$ git commit -am "lesson 1 commit"
+[master (root-commit) 0f8bf62] lesson 1 commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 src/tekwill_oca/lesson 1/notice.txt
+
+User@DESKTOP-VH23G1D MINGW64 /c/Projects/tekwill (master)
+$ git add .
+
+User@DESKTOP-VH23G1D MINGW64 /c/Projects/tekwill (master)
+$ pwd
+/c/Projects/tekwill
+
+User@DESKTOP-VH23G1D MINGW64 /c/Projects/tekwill (master)
+$
+
+User@DESKTOP-VH23G1D MINGW64 /c/Projects/tekwill (master)
+$
+
+User@DESKTOP-VH23G1D MINGW64 /c/Projects/tekwill (master)
+$ git status
+On branch master
+Your branch is based on 'origin/master', but the upst
