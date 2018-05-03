@@ -14,7 +14,7 @@ public class ShoppingCart {
 
         message=custName+" "+itemDesc;
         // Print and run the code
-System.out.print(message);
-System.out.print(total);
+System.out.print(message+" "+total);
+//System.out.print(total);
     }
 }
